@@ -1,0 +1,448 @@
+a{
+    text-decoration: none;
+}
+
+.rec{
+    position: relative;
+    width: 1512px;
+    height: 982px;
+    
+    background: #FFFFFF;
+
+}
+
+.rec2{
+    position: relative;
+    width: 1512px;
+    height: 2099px;
+    background: #FFFFFF;
+}
+
+
+
+/*FOR HEADER*/
+.nav{
+    position: absolute;
+    width: 1512px;
+    height: 115px;
+    left: 0px;
+    top: 0px;
+    background: #EFEFEF;
+}
+
+.lo{
+    position: absolute;
+    width: 89px;
+    height: 89px;
+    left: 24px;
+    top: 13px;
+    background: url(image1.png);
+}
+
+
+
+.tx{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+
+.h{
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 523px;
+    top: 50px;
+
+}
+
+.p{
+    position: absolute;
+    width: 90px;
+    height: 19px;
+    left: 661px;
+    top: 50px;
+ 
+}
+
+.i{
+    position: absolute;
+    width: 73px;
+    height: 19px;
+    left: 841px;
+    top: 50px;
+}
+
+.v{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 1004px;
+    top: 50px;
+}
+
+.b{
+    position: absolute;
+    width: 44px;
+    height: 19px;
+    left: 1116px;
+    top: 50px;
+    
+}
+
+.m{
+position: absolute;
+width: 88px;
+height: 19px;
+left: 1250px;
+top: 50px;
+
+}
+
+.bm{
+    position: absolute;
+    width: 1512px;
+    height: 637px;
+    left: 0px;
+    top: 115px;
+    background: url(image2.png);
+
+}
+.te{
+    position: absolute;
+    width: 541px;
+    height: 94px;
+    left: 87px;
+    top: 814px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #4E4E4E;
+
+}
+
+/* .el{
+    position: absolute;
+    width: 179px;
+    height: 59px;
+    left: 1235px;
+    top: 840px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.77);
+    border-radius: 7px;
+} */
+
+.bu{
+    position: absolute;
+    width: 102px;
+    height: 42px;
+    left: 1281px;
+    top: 850px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #000000;
+}
+
+
+.but{
+    position: absolute;
+    width: 179px;
+    height: 59px;
+    left: 1235px;
+    top: 840px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.77);
+    border-radius: 7px;
+}
+
+/* .gr{
+    position: absolute;
+    width: 56px;
+    height: 242px;
+    left: 1470px;
+    top: 535px;
+
+    transform: rotate(180deg);
+
+} */
+
+.e1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 1470px;
+    top: 535px;
+
+    
+    transform: rotate(180deg);
+
+
+}
+
+.e2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 1470px;
+    top: 442px;
+
+    
+    transform: rotate(180deg);
+
+}
+
+.e3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 1470px;
+    top: 349px;
+
+    
+    transform: rotate(180deg);
+
+}
+
+.re6{
+    position: absolute;
+    width: 686px;
+    height: 663px;
+    left: 756px;
+    top: 1198px;
+
+    background: url(24.png);
+}
+
+.di1{
+    position: absolute;
+    width: 312px;
+    height: 66px;
+    left: 756px;
+    top: 1901px;
+
+}
+
+.bo1{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 756px;
+    top: 1901px;
+
+    border: 2px solid #000000;
+
+}
+
+.tx2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #4E4E4E;
+
+}
+.bo11{
+    position: absolute;
+    width: 269px;
+    height: 46px;
+    left: 799px;
+    top: 1911px;
+}
+
+.di12{
+    position: absolute;
+    width: 312px;
+    height: 66px;
+    left: 756px;
+    top: 1020px;
+
+}
+
+.bo2{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 756px;
+    top: 1020px;
+
+    border: 2px solid #000000;
+}
+
+.bo21{
+    position: absolute;
+    width: 269px;
+    height: 46px;
+    left: 799px;
+    top: 1030px;
+}
+
+.di3
+{
+    position: absolute;
+    width: 253px;
+    height: 66px;
+    left: 70px;
+    top: 1901px;
+    
+}
+
+.bo3{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 70px;
+    top: 1162px;
+    
+    border: 2px solid #000000;
+}
+
+.bo31{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 70px;
+    top: 501px;
+    
+    border: 2px solid #000000;
+}
+
+.txx1{
+    position: absolute;
+    width: 210px;
+    height: 46px;
+    left: 113px;
+    top: 1172px;
+}
+
+.txx2{
+    position: absolute;
+    width: 269px;
+    height: 46px;
+    left: 113px;
+    top: 511px;
+    
+}
+
+.ab{
+    position: absolute;
+    width: 621px;
+    height: 463px;
+    left: 70px;
+    top: 669px;
+
+    background: url(23.png);
+
+}
+
+.ac{
+    position: absolute;
+    width: 687px;
+    height: 805px;
+    left: 755px;
+    top: 181px;
+
+    background: url(22.png);
+}
+
+.ad{
+    position: absolute;
+    width: 621px;
+    height: 300px;
+    left: 70px;
+    top: 181px;
+
+    background: url(21.png);
+}
+
+.ae{
+    position: absolute;
+    width: 622px;
+    height: 531px;
+    left: 69px;
+    top: 1330px;
+    
+    background: url(25.png);
+    
+
+}
+.bo4{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 70px;
+    top: 501px;
+
+    border: 2px solid #000000;
+}
+.bo5{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 70px;
+    top: 1162px;
+    
+    border: 2px solid #000000;
+}
+
+.bo6{
+    position: absolute;
+width: 0px;
+height: 66px;
+left: 70px;
+top: 1901px;
+
+border: 2px solid #000000;
+
+
+}
+
+.bo7{
+    position: absolute;
+    width: 0px;
+    height: 66px;
+    left: 756px;
+    top: 1901px;
+    
+    border: 2px solid #000000;
+    
+}
+
+.txx3{
+    position: absolute;
+    width: 210px;
+    height: 46px;
+    left: 113px;
+    top: 1911px;
+
+}
+
+.txx4{
+    position: absolute;
+    width: 269px;
+    height: 46px;
+    left: 799px;
+    top: 1911px;
+}
